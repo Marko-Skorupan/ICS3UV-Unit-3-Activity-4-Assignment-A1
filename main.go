@@ -53,4 +53,6 @@ if nuts>= bolts && washers>= bolts {
 //OUTPUT
 //DISPLAY TOTAL COST
 fmt.Println("Your total cost of the order is ",totalCost,"¢")
+
+fmt.Println("\nDone")
 }
